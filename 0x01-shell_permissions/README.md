@@ -5,3 +5,4 @@ id: print the effective user id and group id
 chown:change file ownership
 touch: create an empty file
 chmod: modify file access rights
+chgrp: change file's group ownership
